@@ -1,2 +1,2 @@
-# GenAI-chatbot-with-Streamlit
+# GenAI-chatbot-with-Streamlit-UI
 Building a GenAI chatbot using Streamlit UI
